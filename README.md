@@ -15,7 +15,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/xiaowei2025cqu23phy/deepseek-r1-pro.git
+git clone https://github.com/xiaowei2025cqu23phy/AI-Chat.git
 cd deepseek-r1-pro
 
 # 安装依赖
